@@ -3,8 +3,8 @@
 using namespace std;
 
 int main() {
-    cin.tie(NULL);
-    
+    cin.tie(NULL); cout.tie(NULL);
+
     int n, m;
     cin >> n >> m;
     
